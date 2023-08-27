@@ -2,3 +2,6 @@
 /AB-test/final_ab_events.csv
 /AB-test/final_ab_new_users.csv
 /AB-test/final_ab_participants.csv
+/Product Metrics/costs_info_short.csv
+/Product Metrics/orders_info_short.csv
+/Product Metrics/visits_info_short.csv
